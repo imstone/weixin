@@ -9,6 +9,7 @@ var config = {
     appSecret: '9008d71b8297f48b673357852945fcbb',
     token: 'fe178weixin',
     getAccessToken: function (){
+        // 读取配置文件
     	return util.readFileAsyns(wechat_file)
     },
     saveAccessToken: function (data){
