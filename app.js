@@ -7,7 +7,7 @@ var path = require('path');
 var config = require('./config')
 var weixin = require('./weixin')
 // var wechat_file = path.join(__dirname, './config/wexin.txt');
-
+// peizhi
 // var config = {
 //     appID: 'wx4f4bfd59e2e2d8ab',
 //     appSecret: '9008d71b8297f48b673357852945fcbb',
